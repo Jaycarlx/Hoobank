@@ -39,7 +39,7 @@ const Hero = () => (
             <div className="absolute z-[0] w-[40%] h-[50%] bottom-20 blue__gradient"></div>
         </div>
 
-        <div className={`ss:hidden ${styles.flexCenter} fadeUp`}>
+        <div className={`ss:hidden ${styles.flexCenter}`}>
             <GetStarted/>
         </div>
    </section>
